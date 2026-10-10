@@ -21,11 +21,12 @@ The API address is set in `lib/services/api_service.dart` (`10.0.2.2:8000` for t
 
 ## Team
 - [Soham Dey](https://github.com/Soham5454) - team lead, Flutter app, architecture
-- [Ayus Chakraborty](https://github.com/ayuschakraborty108-ops) - original FastAPI backend design and implementation
+- [Ayus Chakraborty](https://github.com/ayuschakraborty108-ops) - FastAPI backend (original design)
 
 ## Screenshots
 
 | Home | Scam detected | Safe message |
 |---|---|---|
 | ![Home](docs/home.png) | ![Scam](docs/scam-result.png) | ![Safe](docs/safe-result.png) |
+
 
